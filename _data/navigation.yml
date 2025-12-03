@@ -1,0 +1,52 @@
+main:
+  - title: "Discover"
+    url: /discover/
+  - title: "My Bookshelf"
+    url: /bookshelf/
+  - title: "Community"
+    url: /community/
+  - title: "Profile"
+    url: /profile/
+
+discover:
+  - title: "Discover"
+    children: 
+      - title: "Featured Books"
+        url: /discover/
+      - title: "Categories"
+        url: /discover/categories/
+      - title: "Book of the Month"
+        url: /discover/month/
+
+bookshelf:
+  - title: "My Bookshelf"
+    children:
+      - title: "Current Reads"
+        url: /bookshelf/
+      - title: "To-Read List"
+        url: /bookshelf/toread/
+      - title: "Read"
+        url: /bookshelf/read/
+      - title: "Recommendations"
+        url: /bookshelf/recommendations/
+
+community:
+  - title: "Community"
+    children:
+      - title: "Book Clubs"
+        url: /community/
+      - title: "Discussions"
+        url: /community/discussions/
+      - title: "Events"
+        url: /community/events/
+
+profile:
+  - title: "Profile"
+    children:
+      - title: "User Details"
+        url: /profile/
+      - title: "Reading Stats"
+        url: /profile/stats/
+      - title: "Settings"
+        url: /profile/settings/
+

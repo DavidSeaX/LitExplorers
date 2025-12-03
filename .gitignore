@@ -1,0 +1,10 @@
+_site
+_resources
+assets/discover
+bookshelf/b
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+.vscode
+.htpasswd
