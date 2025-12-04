@@ -7,6 +7,8 @@ sidebar:
 - Books the user is currently reading.
 -->
 
+<!--# include virtual="/ssi/hello.php" -->
+
 <div class="book">
   <a href="/bookshelf/b/101/Romans-1-a4.pdf"><img src="/assets/discover/101/cover.jpg" alt="cover" class="align-left" width="18%" /></a>
   Romans 1 - Paul and the Gospel of God<br />
